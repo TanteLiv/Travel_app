@@ -1,0 +1,248 @@
+{
+  "flights": [
+    {
+      "price_total": 8950.0,
+      "currency": "NOK",
+      "airline_codes": ["QR"],
+      "booking_link": "https://booking.example.com/qr123",
+      "itinerary": [
+        {
+          "from_airport": "OSL",
+          "to_airport": "DOH",
+          "dep_time_local": "2025-12-10T07:30:00",
+          "arr_time_local": "2025-12-10T15:45:00",
+          "duration_minutes": 375,
+          "flight_number": "QR183",
+          "airline_code": "QR"
+        },
+        {
+          "from_airport": "DOH",
+          "to_airport": "PER",
+          "dep_time_local": "2025-12-10T21:15:00",
+          "arr_time_local": "2025-12-11T17:30:00",
+          "duration_minutes": 555,
+          "flight_number": "QR901",
+          "airline_code": "QR"
+        }
+      ]
+    },
+    {
+      "price_total": 11200.0,
+      "currency": "NOK",
+      "airline_codes": ["EK"],
+      "booking_link": "https://booking.example.com/ek456",
+      "itinerary": [
+        {
+          "from_airport": "OSL",
+          "to_airport": "DXB",
+          "dep_time_local": "2025-12-10T09:15:00",
+          "arr_time_local": "2025-12-10T18:30:00",
+          "duration_minutes": 435,
+          "flight_number": "EK155",
+          "airline_code": "EK"
+        },
+        {
+          "from_airport": "DXB",
+          "to_airport": "PER",
+          "dep_time_local": "2025-12-11T02:45:00",
+          "arr_time_local": "2025-12-11T17:15:00",
+          "duration_minutes": 690,
+          "flight_number": "EK421",
+          "airline_code": "EK"
+        }
+      ]
+    },
+    {
+      "price_total": 9750.0,
+      "currency": "NOK",
+      "airline_codes": ["SQ"],
+      "booking_link": "https://booking.example.com/sq789",
+      "itinerary": [
+        {
+          "from_airport": "OSL",
+          "to_airport": "CPH",
+          "dep_time_local": "2025-12-10T06:45:00",
+          "arr_time_local": "2025-12-10T08:00:00",
+          "duration_minutes": 75,
+          "flight_number": "SK1463",
+          "airline_code": "SK"
+        },
+        {
+          "from_airport": "CPH",
+          "to_airport": "SIN",
+          "dep_time_local": "2025-12-10T11:30:00",
+          "arr_time_local": "2025-12-11T06:15:00",
+          "duration_minutes": 705,
+          "flight_number": "SQ351",
+          "airline_code": "SQ"
+        },
+        {
+          "from_airport": "SIN",
+          "to_airport": "PER",
+          "dep_time_local": "2025-12-11T08:45:00",
+          "arr_time_local": "2025-12-11T13:30:00",
+          "duration_minutes": 285,
+          "flight_number": "SQ213",
+          "airline_code": "SQ"
+        }
+      ]
+    },
+    {
+      "price_total": 12500.0,
+      "currency": "NOK",
+      "airline_codes": ["QF"],
+      "booking_link": "https://booking.example.com/qf321",
+      "itinerary": [
+        {
+          "from_airport": "OSL",
+          "to_airport": "LHR",
+          "dep_time_local": "2025-12-10T14:20:00",
+          "arr_time_local": "2025-12-10T16:45:00",
+          "duration_minutes": 145,
+          "flight_number": "BA762",
+          "airline_code": "BA"
+        },
+        {
+          "from_airport": "LHR",
+          "to_airport": "PER",
+          "dep_time_local": "2025-12-10T21:45:00",
+          "arr_time_local": "2025-12-12T05:30:00",
+          "duration_minutes": 1065,
+          "flight_number": "QF9",
+          "airline_code": "QF"
+        }
+      ]
+    },
+    {
+      "price_total": 8200.0,
+      "currency": "NOK",
+      "airline_codes": ["AY"],
+      "booking_link": "https://booking.example.com/ay654",
+      "itinerary": [
+        {
+          "from_airport": "OSL",
+          "to_airport": "HEL",
+          "dep_time_local": "2025-12-10T08:30:00",
+          "arr_time_local": "2025-12-10T10:45:00",
+          "duration_minutes": 135,
+          "flight_number": "AY681",
+          "airline_code": "AY"
+        },
+        {
+          "from_airport": "HEL",
+          "to_airport": "NRT",
+          "dep_time_local": "2025-12-10T16:15:00",
+          "arr_time_local": "2025-12-11T08:30:00",
+          "duration_minutes": 555,
+          "flight_number": "AY73",
+          "airline_code": "AY"
+        },
+        {
+          "from_airport": "NRT",
+          "to_airport": "PER",
+          "dep_time_local": "2025-12-11T11:45:00",
+          "arr_time_local": "2025-12-11T21:15:00",
+          "duration_minutes": 570,
+          "flight_number": "JL771",
+          "airline_code": "JL"
+        }
+      ]
+    },
+    {
+      "price_total": 10800.0,
+      "currency": "NOK",
+      "airline_codes": ["BA"],
+      "booking_link": "https://booking.example.com/ba987",
+      "itinerary": [
+        {
+          "from_airport": "OSL",
+          "to_airport": "LHR",
+          "dep_time_local": "2025-12-10T11:15:00",
+          "arr_time_local": "2025-12-10T13:40:00",
+          "duration_minutes": 145,
+          "flight_number": "BA764",
+          "airline_code": "BA"
+        },
+        {
+          "from_airport": "LHR",
+          "to_airport": "SIN",
+          "dep_time_local": "2025-12-10T23:25:00",
+          "arr_time_local": "2025-12-11T19:10:00",
+          "duration_minutes": 785,
+          "flight_number": "BA15",
+          "airline_code": "BA"
+        },
+        {
+          "from_airport": "SIN",
+          "to_airport": "PER",
+          "dep_time_local": "2025-12-11T22:30:00",
+          "arr_time_local": "2025-12-12T03:15:00",
+          "duration_minutes": 285,
+          "flight_number": "BA16",
+          "airline_code": "BA"
+        }
+      ]
+    },
+    {
+      "price_total": 9100.0,
+      "currency": "NOK",
+      "airline_codes": ["SK"],
+      "booking_link": "https://booking.example.com/sk555",
+      "itinerary": [
+        {
+          "from_airport": "OSL",
+          "to_airport": "ARN",
+          "dep_time_local": "2025-12-10T15:45:00",
+          "arr_time_local": "2025-12-10T16:55:00",
+          "duration_minutes": 70,
+          "flight_number": "SK1423",
+          "airline_code": "SK"
+        },
+        {
+          "from_airport": "ARN",
+          "to_airport": "BKK",
+          "dep_time_local": "2025-12-10T18:30:00",
+          "arr_time_local": "2025-12-11T11:45:00",
+          "duration_minutes": 615,
+          "flight_number": "TG961",
+          "airline_code": "TG"
+        },
+        {
+          "from_airport": "BKK",
+          "to_airport": "PER",
+          "dep_time_local": "2025-12-11T14:20:00",
+          "arr_time_local": "2025-12-11T22:45:00",
+          "duration_minutes": 505,
+          "flight_number": "TG483",
+          "airline_code": "TG"
+        }
+      ]
+    },
+    {
+      "price_total": 13200.0,
+      "currency": "NOK",
+      "airline_codes": ["QF"],
+      "booking_link": "https://booking.example.com/qf111",
+      "itinerary": [
+        {
+          "from_airport": "OSL",
+          "to_airport": "SYD",
+          "dep_time_local": "2025-12-10T22:30:00",
+          "arr_time_local": "2025-12-12T06:15:00",
+          "duration_minutes": 1305,
+          "flight_number": "QF1",
+          "airline_code": "QF"
+        },
+        {
+          "from_airport": "SYD",
+          "to_airport": "PER",
+          "dep_time_local": "2025-12-12T09:45:00",
+          "arr_time_local": "2025-12-12T14:30:00",
+          "duration_minutes": 285,
+          "flight_number": "QF581",
+          "airline_code": "QF"
+        }
+      ]
+    }
+  ]
+}
