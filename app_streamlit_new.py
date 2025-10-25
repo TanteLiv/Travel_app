@@ -205,7 +205,7 @@ with st.sidebar:
     )
 
     # Price filter
-    max_price = st.number_input("Maximum Price (NOK)", min_value=0, max_value=50000, value=15000, step=500)
+    max_price = st.number_input("Maximum Price (NOK)", min_value=0, max_value=100000, value=15000, step=500)
 
     # Departure time window
     use_time_filter = st.checkbox("Filter By Departure Time")
